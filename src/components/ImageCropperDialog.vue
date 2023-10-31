@@ -44,7 +44,7 @@ export default {
     props: {
         chosenImage: {
             default: null,
-        },
+        }
     },
     data () {
         return {
